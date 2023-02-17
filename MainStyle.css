@@ -1,0 +1,63 @@
+
+body {
+	  background: url(https://imgs.search.brave.com/wpuAv9-5dcSwbKj3-znuXPXPflOy-GpztsfGwx2pXRA/rs:fit:1080:1080:1/g:ce/aHR0cHM6Ly8xLmJw/LmJsb2dzcG90LmNv/bS8tT2ZEMXpEZFNj/QlkvWERtNnlpTjZz/ckkvQUFBQUFBQUFD/Q0kvQU9kRFhKQzFv/eFltUDlqUU5kZG1F/enp0VWNQdEVHa1Fn/Q0xjQkdBcy9zMTYw/MC9wcmV2aWV3Lmpw/Zw) no-repeat center fixed;
+  background-size: cover;
+  padding-top: 2em;
+  background-position-y: 0.1px;
+}
+h1 {
+	color: rgb(244, 226, 0);
+	font-family: 'Italianno', cursive;
+    font-size: 7em;
+}
+
+hr {
+	opacity: 0.98;
+	border: 7px solid;
+	color: rgb(170, 108, 57);
+	width: 150%;
+	border-bottom-right-radius: 100%;
+}
+
+.vr {
+border-left:20px solid;
+border-top: 100px;
+opacity: 0.98;
+color: red;
+height: 700px;
+color: rgb(170, 108, 57);
+border-radius: 80%;
+}
+
+.flex-container {
+	display: grid;
+	grid-template-columns: 270px 500px;
+	margin: px;
+	content: 100px;
+	
+}
+
+/*.test {
+	display: grid;
+	grid-template-columns: 1200px;
+}*/
+
+p {
+	color: rgb(244, 226, 0);
+	font-family: 'Italianno', cursive;
+    font-size: 4em;
+
+}
+h3 {
+	color: rgb(244, 226, 0);
+	font-family: 'Italianno', cursive;
+    font-size: 3em;
+}
+
+.br123 {
+
+color: rgb(244, 226, 0);
+	font-family: 'Italianno', cursive;
+    font-size: 4em;
+
+}
